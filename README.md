@@ -21,5 +21,9 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# Licence
+## Licence
 [MIT](LICENSE)
+
+## Proje Görseli
+
+![Proje Görseli](img/ProjeSS.PNG)
